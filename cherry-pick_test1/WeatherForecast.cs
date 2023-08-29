@@ -9,6 +9,7 @@ namespace cherry_pick_test1
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
         public string? Summary { get; set; }
+<<<<<<< HEAD
         public string? test { get; set; }
 
     }
@@ -18,3 +19,7 @@ namespace cherry_pick_test1
 //cherry_kerala; 
 
 // sample_kerala 
+=======
+    }
+}
+>>>>>>> 80fbf22 (first commit)
