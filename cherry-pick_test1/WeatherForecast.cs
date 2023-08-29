@@ -13,15 +13,4 @@ namespace cherry_pick_test1
 }
 
 
-//Thiruvanthupuram
-
-
-//Aluva - 25 Lines code 
-
-
-// Palakadu - 50 Lines code 
-
-
-//Cochin - 80 Lines Code 
-
-//Varkala - 100 line code 
+//Wayanad - minified 
