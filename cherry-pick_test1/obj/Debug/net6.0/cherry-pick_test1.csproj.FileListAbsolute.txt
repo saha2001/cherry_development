@@ -31,6 +31,7 @@ C:\saha\cherry_pick_dev\cherry-pick_test1\cherry-pick_test1\obj\Debug\net6.0\che
 C:\saha\cherry_pick_dev\cherry-pick_test1\cherry-pick_test1\obj\Debug\net6.0\cherry-pick_test1.genruntimeconfig.cache
 C:\saha\cherry_pick_dev\cherry-pick_test1\cherry-pick_test1\obj\Debug\net6.0\ref\cherry-pick_test1.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\saha\cherry_clone\cherry_development\cherry-pick_test1\bin\Debug\net6.0\appsettings.Development.json
 C:\saha\cherry_clone\cherry_development\cherry-pick_test1\bin\Debug\net6.0\appsettings.json
 C:\saha\cherry_clone\cherry_development\cherry-pick_test1\bin\Debug\net6.0\cherry-pick_test1.exe
@@ -63,5 +64,7 @@ C:\saha\cherry_clone\cherry_development\cherry-pick_test1\obj\Debug\net6.0\refin
 C:\saha\cherry_clone\cherry_development\cherry-pick_test1\obj\Debug\net6.0\cherry-pick_test1.pdb
 C:\saha\cherry_clone\cherry_development\cherry-pick_test1\obj\Debug\net6.0\cherry-pick_test1.genruntimeconfig.cache
 C:\saha\cherry_clone\cherry_development\cherry-pick_test1\obj\Debug\net6.0\ref\cherry-pick_test1.dll
+=======
+>>>>>>> 80fbf22 (first commit)
 =======
 >>>>>>> 80fbf22 (first commit)
