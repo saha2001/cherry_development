@@ -11,6 +11,8 @@ namespace cherry_pick_test1
         public string? Summary { get; set; }
         public string? test { get; set; }
 
+        public string? testingbrange { get; set; }
+
     }
 }
 
